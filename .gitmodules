@@ -1,0 +1,6 @@
+[submodule "GitDemo/delta-demo"]
+	path = GitDemo/delta-demo
+	url = https://github.com/AnirbanGhosh2503/delta-demo
+[submodule "GitDemo/project2"]
+	path = GitDemo/project2
+	url = https://github.com/AnirbanGhosh2503/project2
